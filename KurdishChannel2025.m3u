@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RUDAW HD" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title="KURDISH HD & 4K",RUDAW HD
 http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/98929
-#EXTM3U
+#EXTM3U:-1 bein Sport 1 HD Yacine 
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
 #EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) 
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://imgur.com/a/sE3ohwO" group-title="Kids",Afarin Baxcha TV (720p)
