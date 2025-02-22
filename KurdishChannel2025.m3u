@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RudawTV.iq" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Beinsport 1 Yacine TV"
+#EXTINF:-1,Beinsport 1 Yacine TV
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 English
 http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
@@ -9,10 +9,6 @@ http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
 #EXTINF:-1,Beinsport 3 Yacine TV
 http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
-#EXTINF:-1,Beinsport 4 Yacine TV
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
-#EXTINF:-1,Beinsport 5 Yacine TV
-http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
 
 #EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) 
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
