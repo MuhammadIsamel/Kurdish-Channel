@@ -25,7 +25,8 @@ https://silicon.kurdlive.xyz/live/knnHD/playlist.m3u8
 https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:-1 tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/sDjskD4L/MMN-News-200.png" group-title="News",MMN NEWS
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Welat" tvg-logo="https://i.postimg.cc/0QdtLRFf/Welat-200.png" group-title="News",Welat
+http://stream.welattv.net:1935/welat/tv/.m3u8
 
 #EXTINF:-1 tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="General",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
