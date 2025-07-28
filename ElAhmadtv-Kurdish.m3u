@@ -161,9 +161,9 @@ https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
 #EXTINF:-1 tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/XYLHdmVh/Esra-2-200.png" group-title="Religious",ESRA TV 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
-#EXTINF:-1 tvg-name="Naqshi Media" tvg-logo="https://i.postimg.cc/pXr99vx0/Raman-200.png" group-title="Religious",Naqshi Media
+#EXTINF:-1 tvg-name="Naqshi Media" tvg-logo="https://i.postimg.cc/pXwY5xDp/Naqshi-Media-200.jpg" group-title="Religious",Naqshi Media
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Raman" tvg-logo="https://i.postimg.cc/pXwY5xDp/Naqshi-Media-200.jpg" group-title="Religious",Raman
+#EXTINF:-1 tvg-name="Raman" tvg-logo="https://i.postimg.cc/pXr99vx0/Raman-200.png" group-title="Religious",Raman
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:08:79:9B&stream=1310836&extension=ts&play_token=Uu0lXk0SPQ
 
 
