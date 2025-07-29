@@ -3,13 +3,13 @@
 
 #EXTINF:-1 tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="News",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="News",NRT TV 
+#EXTINF:-1 tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="News",NRT
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="News",K24 
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-name="Speda" tvg-logo="https://i.postimg.cc/cJNxtKLT/Speda_200.jpg" group-title="News",Speda
 http://5345096.myvax.xyz/live/443432469215731/4362020837/54072.ts
-#EXTINF:-1 tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam TV  
+#EXTINF:-1 tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam 
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
@@ -34,19 +34,19 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
 #EXTINF:-1 tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/KzJ0dq9w/GK-200.jpg" group-title="General",Gali Kurdistan
 https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
-#EXTINF:-1 tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="General",Duhok TV
+#EXTINF:-1 tvg-name="Duhok" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="General",Duhok 
 http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="General",‌Halabja
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ravand" tvg-logo="https://i.postimg.cc/WbLY3KZ0/Ravand-200.png" group-title="General",Ravand
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
-#EXTINF:-1 tvg-name="KIRKUK TV" tvg-logo="https://i.postimg.cc/GtfTwdPV/Kirkuk-200.jpg" group-title="General",KIRKUK TV
+#EXTINF:-1 tvg-name="KIRKUK" tvg-logo="https://i.postimg.cc/GtfTwdPV/Kirkuk-200.jpg" group-title="General",KIRKUK
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="General",WAAR
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="General",WAAR
 https://ca-rt.onetv.app/Waar/index-0.m3u8
-#EXTINF:-1 tvg-name="NUBAR TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR TV 
+#EXTINF:-1 tvg-name="NUBAR" tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR 
 http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="General",Derin
 http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
