@@ -172,6 +172,10 @@ http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:08:79:9B&stream=1310836&ext
 http://dvdv.org:2082/001562/001562/4868
 #EXTINF:-1 tvg-name="Quran Mahir" tvg-logo="https://i.postimg.cc/MGPc55zG/Mahir-Quran-200.png" group-title="Religious",Quran Mahir
 http://dvdv.org:2082/001562/001562/7217
+#EXTINF:-1 tvg-name="Huda" tvg-logo="https://i.postimg.cc/WbShsVHy/Huda-200.png" group-title="Religious",Huda
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Religious",Guide Us
+https://stream.streamislam.com:443/hls/streamlive/1_2/index.m3u8
 
 #EXTINF:-1 tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/689907
