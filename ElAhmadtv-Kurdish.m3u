@@ -141,7 +141,7 @@ https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/playlist.m3u8
 #EXTINF:-1 tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Religious",SPI QURAN
 https://live20.bozztv.com/giatv/giatv-SPIQURANHD/SPIQURANHD/chunks.m3u8
 #EXTINF:-1 tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Religious",Shna QURAN
-http://tv.ezanvaktipro.com:80/hls/quran.m3u8
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shar QURAN" tvg-logo="https://i.postimg.cc/bNBdrNnF/SHAR-Quran-200.jpg" group-title="Religious",Shar QURAN
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-name="IMKQURAN HD" tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Religious",IMKQURAN HD
