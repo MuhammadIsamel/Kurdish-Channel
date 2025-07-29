@@ -187,6 +187,8 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280437
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531812.m3u8
 #EXTINF:-1 tvg-name="NRT SPORTS" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
 https://live20.bozztv.com/giatv/giatv-nrtsports/nrtsports/chunks.m3u8
+#EXTINF:-1 tvg-name="NRT SPORTS (Karwantv)" tvg-logo="https://i.postimg.cc/VvztBrWF/NRT-Sport-200-karwantv.jpg" group-title="KURD SPORT",NRT SPORT (Karwantv)
+https://cdn.karwan.tv/nrt-sport/index.m3u8
 #EXTINF:-1 tvg-name="AVA SPORT FHD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",AVA SPORT
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531814.m3u8
 #EXTINF:-1 tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",AVA SPORT
