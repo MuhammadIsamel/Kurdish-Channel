@@ -12,7 +12,7 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="News",AVA HD
-https://ava5.site/upload/images/720.m3u8
+https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1  tvg-name="Kurdsat News" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="News",Kurdsat News
 https://iko-streamline-live1.akamaized.net/KurdsatNews/master_0.m3u8
 #EXTINF:-1  tvg-name="KurdsatNews" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="News",Kurdsat News
@@ -118,17 +118,20 @@ https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/
 #EXTINF:-1  tvg-name="Istar Quran" tvg-logo="https://i.postimg.cc/HnWjcr3F/Istar-Quran-200.jpg" group-title="Religious",Istar Quran
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/playlist.m3u8
 
-
+#EXTINF:-1  tvg-name="Soz Quran" tvg-logo="https://i.postimg.cc/2S8ZkwZR/Soz-Quran-200.png" group-title="Religious",Soz Quran
+https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 #EXTINF:-1  tvg-name="San Quran" tvg-logo="https://i.postimg.cc/y84gRkJT/San-quran.png" group-title="Religious",San Quran
 http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
 #EXTINF:-1  tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Religious",SPI QURAN
-https://live20.bozztv.com/giatv/giatv-SPIQURANHD/SPIQURANHD/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
 #EXTINF:-1  tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Religious",Shna QURAN
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:-1  tvg-name="Shar QURAN" tvg-logo="https://i.postimg.cc/bNBdrNnF/SHAR-Quran-200.jpg" group-title="Religious",Shar QURAN
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Religious",IMKQURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+#EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/FHd59cgz/download.jpg" group-title="Religious",NRT 4
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:-1  tvg-name="QURAN Sharjah" tvg-logo="https://i.postimg.cc/6QscV3tq/Sharjah_Tv_Quran_200.jpg" group-title="Religious",QURAN Sharjah
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
 #EXTINF:-1  tvg-name="Pro Quran" tvg-logo="https://i.postimg.cc/Z5X97KKy/Al-Quran-Pro-200.png" group-title="Religious",Pro Quran
