@@ -73,7 +73,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
 #EXTINF:-1  tvg-name="Avar" tvg-logo="https://i.postimg.cc/DzvWc0vZ/Avar-200.jpg" group-title="General",Avar
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="Religious",AMOZHGARY
+#EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="Religious",Amozhgary
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Religious",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
@@ -81,6 +81,8 @@ http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 http://bangawaztv.ddns.net:40/live/bangawaztv/chunklist_w920250732.m3u
 #EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
 http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
+#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="Religious",Al-Sunnah Al-Nabawiyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="Religious",FARMUDA TV
