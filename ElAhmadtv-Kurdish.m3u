@@ -256,7 +256,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 #EXTINF:-1  tvg-name="Jazeera Documentary" tvg-logo="https://i.postimg.cc/h4z0F5P6/Alajazira-wathaiqya-200.png" group-title="Documentary",Al Jazeera Documentary
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-logo="https://i.postimg.cc/xTD4wccH/Natinal-wild-200.jpg" group-title="Documentary",National Geographic Wild
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/stream_04/index.m3u8
 #EXTINF:-1  tvg-name="Amazing Discoveries" tvg-logo="https://i.postimg.cc/v84wJbny/Ad-tv-200.jpg" group-title="Documentary",Amazing Discoveries
 https://rpn.bozztv.com/gfaith/gfaith-amazing/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="DocuBOX" tvg-logo="https://i.postimg.cc/Jzpgm6wk/Docu-Box-200.png" group-title="Documentary",DocuBOX
