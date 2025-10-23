@@ -173,8 +173,14 @@ http://103.126.50.103:2082/live/05343240670yg/9139198/71094.m3u8
 http://103.126.50.103:2082/live/05343240670yg/9139198/71444.m3u8
 #EXTINF:-1  tvg-name="Raad Kurdi" tvg-logo="https://i.postimg.cc/VsxJsXvg/raad-kurdi-200.jpg" group-title="Religious",Raad Kurdi
 https://server6.mp3quran.net/kurdi/002.mp3
-
-
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://s34.radiolize.com/radio/8050/radio.mp3
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://stream.radiojar.com/8s5u5tpdtwzuv
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://qurango.net/radio/tarateel
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;
 #EXTINF:-1  tvg-name="Huda" tvg-logo="https://i.postimg.cc/WbShsVHy/Huda-200.png" group-title="Religious",Huda
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1  tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Religious",Guide Us
@@ -1307,6 +1313,5 @@ https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/112.mp3
 https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/113.mp3
 #EXTINF:-1  tvg-name="Peshawa Kurdi" tvg-logo="https://i.postimg.cc/Z5CbQs8Y/Peshawa.jpg" group-title="Quran",الناس
 https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/114.mp3
-
 
 
