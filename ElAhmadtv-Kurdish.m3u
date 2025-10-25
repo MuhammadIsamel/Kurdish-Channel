@@ -83,8 +83,12 @@ http://bangawaztv.ddns.net:40/live/bangawaztv/chunklist_w920250732.m3u
 http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
 #EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
+https://win.holol.com/live/quran/chunklist_w1967448292.m3u8
 #EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="Religious",Al-Sunnah Al-Nabawiyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1  tvg-name="Al-Sunnah Al-Nabawiyah" tvg-logo="https://i.postimg.cc/WbDm3qqC/Saudi-Suna-200.jpg" group-title="Religious",Al-Sunnah Al-Nabawiyah
+https://win.holol.com/live/sunnah/chunklist_w812271973.m3u8
 #EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="Religious",FARMUDA TV
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1  tvg-name="EMAN TV" tvg-logo="https://i.postimg.cc/L8jRSH3P/Eman-tv-200.jpg" group-title="Religious",EMAN TV
@@ -168,9 +172,15 @@ http://103.126.50.103:2082/live/05343240670yg/9139198/71094.m3u8
 #EXTINF:-1  tvg-name="Peshawa Qadr" tvg-logo="https://i.postimg.cc/Z5CbQs8Y/Peshawa.jpg" group-title="Religious",Peshawa Qadr
 http://103.126.50.103:2082/live/05343240670yg/9139198/71444.m3u8
 #EXTINF:-1  tvg-name="Raad Kurdi" tvg-logo="https://i.postimg.cc/VsxJsXvg/raad-kurdi-200.jpg" group-title="Religious",Raad Kurdi
-https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1761148267\ei\C6n4aP6FEcWCgMMP7ay5iAY\ip\185.244.154.109\id\cqg2gd45HwA.1\source\yt_live_broadcast\requiressl\yes\xpc\EgVo2aDSNQ%3D%3D\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\ss\1\ssa\1\bui\ATw7iSUpfHSGohDSX2U8X8wpdiHx_7RFSNUn6D4nYtXdAdTgaeFSF-TYI8wYfoOAB30cWTxLy6JPRc0u\spc\hcYD5SMopaStf4DOvcmJz74o0b5mnHwvjqJ-yxINcE7GFVUbz3SrDJ2ruupxxez_vM8SPWMYCF4\vprv\1\go\1\rqh\5\pacing\0\nvgoi\1\ncsapi\1\keepalive\yes\fexp\51355912%2C51552689%2C51565116%2C51565681%2C51580968\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type\sig\AJfQdSswRQIhAKCMGef6c1k3JnE4kLx-PIutB7hiX0rHJHzciGMyjFxQAiBWeUGsa66DZ87da78HtmsLyobozKjwFOw1ulENKYSj-Q%3D%3D\file\index.m3u8
-
-
+https://server6.mp3quran.net/kurdi/002.mp3
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://s34.radiolize.com/radio/8050/radio.mp3
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://stream.radiojar.com/8s5u5tpdtwzuv
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://qurango.net/radio/tarateel
+#EXTINF:-1  tvg-name="Quran Radio" tvg-logo="https://i.postimg.cc/ryC9KbQG/Quran-Radio-200.png" group-title="Religious",Quran Radio
+https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;
 #EXTINF:-1  tvg-name="Huda" tvg-logo="https://i.postimg.cc/WbShsVHy/Huda-200.png" group-title="Religious",Huda
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1  tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Religious",Guide Us
@@ -1303,6 +1313,5 @@ https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/112.mp3
 https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/113.mp3
 #EXTINF:-1  tvg-name="Peshawa Kurdi" tvg-logo="https://i.postimg.cc/Z5CbQs8Y/Peshawa.jpg" group-title="Quran",الناس
 https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/114.mp3
-
 
 
