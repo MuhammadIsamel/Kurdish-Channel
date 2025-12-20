@@ -195,8 +195,10 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1  tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Religious",Guide Us
 https://stream.streamislam.com:443/hls/streamlive/1_2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NIROJ QURAN" tvg-logo="https://i.postimg.cc/LHtZvs2S/NIROJTV.png" group-title="|KU|KURDISTAN ✦ كردي",NIROJ QURAN
-http://shafak.xyz:8080/311521889776/277848346382/550837
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Quran 4K" tvg-logo="https://i.ibb.co/fGX5VxWC/photo-2025-08-05-16-46-53.jpg" group-title="Alwan Media TV",Alwan Quran 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/47402
+#EXTINF:-1 tvg-id="" tvg-name="IQ| Al Rabiaa Quran" tvg-logo="" group-title="Al Rabiaa Iraq",IQ| Al Rabiaa Quran
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/48784
 
 #EXTINF:-1  tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
 https://live9.karwan.tv/Nrtsportyusfstore/index.m3u8
@@ -1328,4 +1330,358 @@ https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/112.mp3
 https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/113.mp3
 #EXTINF:-1  tvg-name="Peshawa Kurdi" tvg-logo="https://i.postimg.cc/Z5CbQs8Y/Peshawa.jpg" group-title="Quran",الناس
 https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/114.mp3
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 1 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46542
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 1 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46543
+
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 2 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46545
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 2 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46546
+
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 3 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46548
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 3 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46549
+
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 4 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46551
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 4 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46552
+
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 5 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46557
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 5 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46555
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 HD" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 6 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46554
+
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="" group-title="Alwan Sports  tv",Alwan Sport 6 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/46558
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 7 4K" tvg-logo="https://i.ibb.co/bMbXVfHd/20250720-140016.png" group-title="Alwan Sports  tv",Alwan Sport 7 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/47378
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 8 4K" tvg-logo="https://i.ibb.co/wNb4JNxY/20250720-140613.png" group-title="Alwan Sports  tv",Alwan Sport 8 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/47379
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 9 4K" tvg-logo="https://i.ibb.co/JRX84yx1/20250720-140647.png" group-title="Alwan Sports  tv",Alwan Sport 9 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/47380
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://i.ibb.co/B77pM0K/20250720-140800.png" group-title="Alwan Sports  tv",Alwan Sport 10 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/47381
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport HD" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thamanya 1 Sport HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/48567
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport 4K" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thamanya 1 Sport 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/48568
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport 4K" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thamanya 2 Sport 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/48571
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport HD" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thamanya 3 Sport HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/48573
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport 4K" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thamanya 3 Sport 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/48574
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 1 720" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thmanyah 1 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49056
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 1 1080" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thmanyah 1 1080
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49057
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 2 720" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thmanyah 2 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49058
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 2 1080" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thmanyah 2 1080
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49059
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 3 720" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thmanyah 3 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49060
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyah 3 1080" tvg-logo="http://img.paliptv.com/logo/uploads/68e05cf38d0da.jpg" group-title="Thmanayh  Sports",Thmanyah 3 1080
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49061
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 1 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 1 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41621
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 2 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 2 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41622
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 3 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 3 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41623
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 4 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 4 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41624
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 5 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 5 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41625
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 6 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 6 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41626
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 7 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 7 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41627
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 8 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 8 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41628
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD 9 720" tvg-logo="" group-title="  Bein HD",beIN Sport HD 9 720
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/41629
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 1" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 1
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44735
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 2" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 2
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44736
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 3" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 3
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44737
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 4" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 4
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44738
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 5" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 5
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44739
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 6" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 6
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44740
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 7" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 7
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44741
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 8" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 8
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44742
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports FHD 9" tvg-logo="" group-title="F: Bein FHD",beIN Sports FHD 9
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44743
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra FHD 1" tvg-logo="" group-title="F: Bein FHD",Bein Xtra FHD 1
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44744
+#EXTINF:-1 tvg-id="" tvg-name="Bein Xtra FHD 2" tvg-logo="" group-title="F: Bein FHD",Bein Xtra FHD 2
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44745
+#EXTINF:-1 tvg-id="" tvg-name="beIN Xtra FHD 3" tvg-logo="" group-title="F: Bein FHD",beIN Xtra FHD 3
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/44746
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 1 4K" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="SS: Bein Sports Fhd",beIN SPORT 1 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/55232
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 2 4K" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-2-mea.png" group-title="SS: Bein Sports Fhd",beIN SPORT 2 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/55237
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT 3 4K" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="SS: Bein Sports Fhd",beIN SPORT 3 4K
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/55242
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Rudaw HD" tvg-logo="" group-title="Kurdish TV",Ku: Rudaw HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49965
+#EXTINF:-1 tvg-id="" tvg-name="Ku: K24 HD" tvg-logo="" group-title="Kurdish TV",Ku: K24 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49966
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Channel 8 HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Channel_8.png" group-title="Kurdish TV",Ku: Channel 8 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49967
+#EXTINF:-1 tvg-id="" tvg-name="Ku: NRT 1 HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/NRT_News.png" group-title="Kurdish TV",Ku: NRT 1 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49968
+#EXTINF:-1 tvg-id="" tvg-name="Ku: NRT 2 HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/NRT_2.png" group-title="Kurdish TV",Ku: NRT 2 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49969
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Kurdsat TV HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Kurdsat.png" group-title="Kurdish TV",Ku: Kurdsat TV HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49970
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Kurdsat News HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Kurdsat_News.png" group-title="Kurdish TV",Ku: Kurdsat News HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49971
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Kurdistan TV HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/kurdistan_tv_logo.png" group-title="Kurdish TV",Ku: Kurdistan TV HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49972
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Gali Kurdistan TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Gali_kurdistan.png" group-title="Kurdish TV",Ku: Gali Kurdistan TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49973
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Kirkuk TV" tvg-logo="http://safiafamily.com/uploads/family/iraq/kirkuk-tv-iq.png" group-title="Kurdish TV",Ku: Kirkuk TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49974
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Zagros HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Zagros.png" group-title="Kurdish TV",Ku: Zagros HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49975
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Payam TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Payam.png" group-title="Kurdish TV",Ku: Payam TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49976
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Speda HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Speda.png" group-title="Kurdish TV",Ku: Speda HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49977
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Amozhgary TV HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Amozhgare.png" group-title="Kurdish TV",Ku: Amozhgary TV HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49978
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Bangawaz TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Bangawaz.png" group-title="Kurdish TV",Ku: Bangawaz TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49979
+#EXTINF:-1 tvg-id="" tvg-name="Ku: NRT 4 HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/NRT_4.png" group-title="Kurdish TV",Ku: NRT 4 HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49980
+#EXTINF:-1 tvg-id="" tvg-name="Ku: KurdMax Sorani HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Kurdmax.png" group-title="Kurdish TV",Ku: KurdMax Sorani HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49981
+#EXTINF:-1 tvg-id="" tvg-name="Ku: KurdMax Kurmanji HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Kurdmax.png" group-title="Kurdish TV",Ku: KurdMax Kurmanji HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49982
+#EXTINF:-1 tvg-id="" tvg-name="Ku: KurdMax Show HD Sorani" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Kurdmax_Show.png" group-title="Kurdish TV",Ku: KurdMax Show HD Sorani
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49983
+#EXTINF:-1 tvg-id="" tvg-name="Ku: KurdMax Show Kurmanji HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Kurdmax_Show.png" group-title="Kurdish TV",Ku: KurdMax Show Kurmanji HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49984
+#EXTINF:-1 tvg-id="" tvg-name="Ku: AVA HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/AVA.png" group-title="Kurdish TV",Ku: AVA HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49985
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Zoom HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Zoom.png" group-title="Kurdish TV",Ku: Zoom HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49986
+#EXTINF:-1 tvg-id="" tvg-name="Ku: NRT 3 Kids HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/NRT_Mndalan.png" group-title="Kurdish TV",Ku: NRT 3 Kids HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49987
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Zarok TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/zaroktv.png" group-title="Kurdish TV",Ku: Zarok TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49988
+#EXTINF:-1 tvg-id="" tvg-name="Ku: TRT Kurdi" tvg-logo="http://safiafamily.com/uploads/family/kurdish/TRT_Kurdi.png" group-title="Kurdish TV",Ku: TRT Kurdi
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49989
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Iraqia Kurdish TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/iraqiakurdish.png" group-title="Kurdish TV",Ku: Iraqia Kurdish TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49990
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Sahar Kurdi TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Sahar.png" group-title="Kurdish TV",Ku: Sahar Kurdi TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49991
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Med Music TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/MED_Music.png" group-title="Kurdish TV",Ku: Med Music TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49992
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Waar TV HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/War.png" group-title="Kurdish TV",Ku: Waar TV HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49993
+#EXTINF:-1 tvg-id="" tvg-name="Ku: A TV HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/atvkurd.jpg" group-title="Kurdish TV",Ku: A TV HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49994
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Sterk TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Sterk.png" group-title="Kurdish TV",Ku: Sterk TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49995
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Aryen TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/aryentv.png" group-title="Kurdish TV",Ku: Aryen TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49996
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Ronahi TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Ronahi.png" group-title="Kurdish TV",Ku: Ronahi TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49997
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Cira TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Cira_TV.png" group-title="Kurdish TV",Ku: Cira TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49998
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Rojava HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Rojava.png" group-title="Kurdish TV",Ku: Rojava HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/49999
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Jin HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Jin_TV.png" group-title="Kurdish TV",Ku: Jin HD
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/50000
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Neu TV" tvg-logo="http://safiafamily.com/uploads/family/kurdish/N_eu_TV.png" group-title="Kurdish TV",Ku: Neu TV
+http://tvfajeriptv.com:80/GqfSrWutKUZA/GqfSrWutKUZA/50001
+#EXTINF:-1 tvg-id="" tvg-name="Ku: Kurd Channel HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/kurd_channel.png" group-title="Kurdish TV",Ku: Kurd Channel HD
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="☘☘☘★--- KURD ---★☘☘☘" tvg-logo="" group-title="KURD",☘☘☘★--- KURD ---★☘☘☘
+http://aumaletv.com:8080/jawad/jawad1/4648
+#EXTINF:-1 tvg-id="" tvg-name="KU: Afarin Kids HD" tvg-logo="" group-title="KURD",KU: Afarin Kids HD
+http://aumaletv.com:8080/jawad/jawad1/52119
+#EXTINF:-1 tvg-id="" tvg-name="KU: Aryen TV" tvg-logo="" group-title="KURD",KU: Aryen TV
+http://aumaletv.com:8080/jawad/jawad1/52122
+#EXTINF:-1 tvg-id="" tvg-name="KU: Astera Show HD" tvg-logo="" group-title="KURD",KU: Astera Show HD
+http://aumaletv.com:8080/jawad/jawad1/52129
+#EXTINF:-1 tvg-id="" tvg-name="KU: Astera Sport HD" tvg-logo="" group-title="KURD",KU: Astera Sport HD
+http://aumaletv.com:8080/jawad/jawad1/52130
+#EXTINF:-1 tvg-id="" tvg-name="KU: AVA Entertaiment HD" tvg-logo="" group-title="KURD",KU: AVA Entertaiment HD
+http://aumaletv.com:8080/jawad/jawad1/52131
+#EXTINF:-1 tvg-id="" tvg-name="KU: AVA TV FHD" tvg-logo="" group-title="KURD",KU: AVA TV FHD
+http://aumaletv.com:8080/jawad/jawad1/52132
+#EXTINF:-1 tvg-id="" tvg-name="KU: Babylon TV HD" tvg-logo="" group-title="KURD",KU: Babylon TV HD
+http://aumaletv.com:8080/jawad/jawad1/52133
+#EXTINF:-1 tvg-id="" tvg-name="KU: Badinan HD" tvg-logo="" group-title="KURD",KU: Badinan HD
+http://aumaletv.com:8080/jawad/jawad1/52134
+#EXTINF:-1 tvg-id="" tvg-name="KU: BANGAWAZ HD" tvg-logo="" group-title="KURD",KU: BANGAWAZ HD
+http://aumaletv.com:8080/jawad/jawad1/52135
+#EXTINF:-1 tvg-id="" tvg-name="KU: Binin HD" tvg-logo="" group-title="KURD",KU: Binin HD
+http://aumaletv.com:8080/jawad/jawad1/52137
+#EXTINF:-1 tvg-id="" tvg-name="KU: Cihan HD" tvg-logo="" group-title="KURD",KU: Cihan HD
+http://aumaletv.com:8080/jawad/jawad1/52141
+#EXTINF:-1 tvg-id="" tvg-name="KU: CIRA TV HD" tvg-logo="" group-title="KURD",KU: CIRA TV HD
+http://aumaletv.com:8080/jawad/jawad1/52142
+#EXTINF:-1 tvg-id="" tvg-name="KU: Derwaze TV" tvg-logo="" group-title="KURD",KU: Derwaze TV
+http://aumaletv.com:8080/jawad/jawad1/52148
+#EXTINF:-1 tvg-id="" tvg-name="KU: DIMEN HD" tvg-logo="" group-title="KURD",KU: DIMEN HD
+http://aumaletv.com:8080/jawad/jawad1/52151
+#EXTINF:-1 tvg-id="" tvg-name="KU: IMovies HD" tvg-logo="" group-title="KURD",KU: IMovies HD
+http://aumaletv.com:8080/jawad/jawad1/52158
+#EXTINF:-1 tvg-id="" tvg-name="KU: IRAQ KURD HD" tvg-logo="" group-title="KURD",KU: IRAQ KURD HD
+http://aumaletv.com:8080/jawad/jawad1/52159
+#EXTINF:-1 tvg-id="" tvg-name="KU: Jin TV HD" tvg-logo="" group-title="KURD",KU: Jin TV HD
+http://aumaletv.com:8080/jawad/jawad1/52160
+#EXTINF:-1 tvg-id="" tvg-name="KU: K24 FHD" tvg-logo="" group-title="KURD",KU: K24 FHD
+http://aumaletv.com:8080/jawad/jawad1/52162
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kaziwa HD" tvg-logo="" group-title="KURD",KU: Kaziwa HD
+http://aumaletv.com:8080/jawad/jawad1/52164
+#EXTINF:-1 tvg-id="" tvg-name="KU: Komall HD" tvg-logo="" group-title="KURD",KU: Komall HD
+http://aumaletv.com:8080/jawad/jawad1/52168
+#EXTINF:-1 tvg-id="" tvg-name="KU: Korek TV FHD" tvg-logo="" group-title="KURD",KU: Korek TV FHD
+http://aumaletv.com:8080/jawad/jawad1/52169
+#EXTINF:-1 tvg-id="" tvg-name="KU: KRD Badini Movies" tvg-logo="" group-title="KURD",KU: KRD Badini Movies
+http://aumaletv.com:8080/jawad/jawad1/52170
+#EXTINF:-1 tvg-id="" tvg-name="KU: KRD Cinema 1 HD" tvg-logo="" group-title="KURD",KU: KRD Cinema 1 HD
+http://aumaletv.com:8080/jawad/jawad1/52171
+#EXTINF:-1 tvg-id="" tvg-name="KU: KRD Tom & Jerry FHD" tvg-logo="" group-title="KURD",KU: KRD Tom & Jerry FHD
+http://aumaletv.com:8080/jawad/jawad1/52172
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURD SAT NEWS FHD" tvg-logo="" group-title="KURD",KU: KURD SAT NEWS FHD
+http://aumaletv.com:8080/jawad/jawad1/52173
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdish Channel" tvg-logo="" group-title="KURD",KU: Kurdish Channel
+http://aumaletv.com:8080/jawad/jawad1/52174
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdistan TV FHD" tvg-logo="" group-title="KURD",KU: Kurdistan TV FHD
+http://aumaletv.com:8080/jawad/jawad1/52176
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdmax FHD" tvg-logo="" group-title="KURD",KU: Kurdmax FHD
+http://aumaletv.com:8080/jawad/jawad1/52177
+#EXTINF:-1 tvg-id="" tvg-name="KU: KurdMax Music HD" tvg-logo="" group-title="KURD",KU: KurdMax Music HD
+http://aumaletv.com:8080/jawad/jawad1/52178
+#EXTINF:-1 tvg-id="" tvg-name="KU KurdMax Music HD" tvg-logo="" group-title="KURD",KU KurdMax Music HD
+http://aumaletv.com:8080/jawad/jawad1/52179
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdmax Show FHD" tvg-logo="" group-title="KURD",KU: Kurdmax Show FHD
+http://aumaletv.com:8080/jawad/jawad1/52180
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdsat FHD" tvg-logo="" group-title="KURD",KU: Kurdsat FHD
+http://aumaletv.com:8080/jawad/jawad1/52181
+#EXTINF:-1 tvg-id="" tvg-name="KU: KURTCE HD" tvg-logo="" group-title="KURD",KU: KURTCE HD
+http://aumaletv.com:8080/jawad/jawad1/52183
+#EXTINF:-1 tvg-id="" tvg-name="KU: Lalish" tvg-logo="" group-title="KURD",KU: Lalish
+http://aumaletv.com:8080/jawad/jawad1/52185
+#EXTINF:-1 tvg-id="" tvg-name="KU Med EP Music" tvg-logo="" group-title="KURD",KU Med EP Music
+http://aumaletv.com:8080/jawad/jawad1/52189
+#EXTINF:-1 tvg-id="" tvg-name="KU: Medya Haber" tvg-logo="" group-title="KURD",KU: Medya Haber
+http://aumaletv.com:8080/jawad/jawad1/52190
+#EXTINF:-1 tvg-id="" tvg-name="KU: MINARA TV HD" tvg-logo="" group-title="KURD",KU: MINARA TV HD
+http://aumaletv.com:8080/jawad/jawad1/52191
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN Classic Musical" tvg-logo="" group-title="KURD",KU: MMN Classic Musical
+http://aumaletv.com:8080/jawad/jawad1/52192
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN Clip" tvg-logo="" group-title="KURD",KU: MMN Clip
+http://aumaletv.com:8080/jawad/jawad1/52194
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN Movies HD" tvg-logo="" group-title="KURD",KU: MMN Movies HD
+http://aumaletv.com:8080/jawad/jawad1/52195
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN Quran" tvg-logo="" group-title="KURD",KU: MMN Quran
+http://aumaletv.com:8080/jawad/jawad1/52196
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN Radio Turkey HD" tvg-logo="" group-title="KURD",KU: MMN Radio Turkey HD
+http://aumaletv.com:8080/jawad/jawad1/52198
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN SHOW HD" tvg-logo="" group-title="KURD",KU: MMN SHOW HD
+http://aumaletv.com:8080/jawad/jawad1/52199
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN Sport FHD" tvg-logo="" group-title="KURD",KU: MMN Sport FHD
+http://aumaletv.com:8080/jawad/jawad1/52200
+#EXTINF:-1 tvg-id="" tvg-name="KU: Net TV FHD" tvg-logo="" group-title="KURD",KU: Net TV FHD
+http://aumaletv.com:8080/jawad/jawad1/52202
+#EXTINF:-1 tvg-id="" tvg-name="KU: Never HD" tvg-logo="" group-title="KURD",KU: Never HD
+http://aumaletv.com:8080/jawad/jawad1/52203
+#EXTINF:-1 tvg-id="" tvg-name="KU: NEWLINE 2 HD" tvg-logo="" group-title="KURD",KU: NEWLINE 2 HD
+http://aumaletv.com:8080/jawad/jawad1/52204
+#EXTINF:-1 tvg-id="" tvg-name="KU: NEWLINE HD" tvg-logo="" group-title="KURD",KU: NEWLINE HD
+http://aumaletv.com:8080/jawad/jawad1/52205
+#EXTINF:-1 tvg-id="" tvg-name="KU: NewMax Comedy HD" tvg-logo="" group-title="KURD",KU: NewMax Comedy HD
+http://aumaletv.com:8080/jawad/jawad1/52207
+#EXTINF:-1 tvg-id="" tvg-name="KU: NewMax Kids HD" tvg-logo="" group-title="KURD",KU: NewMax Kids HD
+http://aumaletv.com:8080/jawad/jawad1/52209
+#EXTINF:-1 tvg-id="" tvg-name="KU: Niga Movies HD" tvg-logo="" group-title="KURD",KU: Niga Movies HD
+http://aumaletv.com:8080/jawad/jawad1/52214
+#EXTINF:-1 tvg-id="" tvg-name="KU: NRT 2" tvg-logo="" group-title="KURD",KU: NRT 2
+http://aumaletv.com:8080/jawad/jawad1/52218
+#EXTINF:-1 tvg-id="" tvg-name="KU: NRT 3 Kids" tvg-logo="" group-title="KURD",KU: NRT 3 Kids
+http://aumaletv.com:8080/jawad/jawad1/52219
+#EXTINF:-1 tvg-id="" tvg-name="KU: NRT 4 FHD" tvg-logo="" group-title="KURD",KU: NRT 4 FHD
+http://aumaletv.com:8080/jawad/jawad1/52220
+#EXTINF:-1 tvg-id="" tvg-name="KU: NRT News FHD" tvg-logo="" group-title="KURD",KU: NRT News FHD
+http://aumaletv.com:8080/jawad/jawad1/52221
+#EXTINF:-1 tvg-id="" tvg-name="KU: Payam HD" tvg-logo="" group-title="KURD",KU: Payam HD
+http://aumaletv.com:8080/jawad/jawad1/52222
+#EXTINF:-1 tvg-id="" tvg-name="KU: Qalat TV HD" tvg-logo="" group-title="KURD",KU: Qalat TV HD
+http://aumaletv.com:8080/jawad/jawad1/52224
+#EXTINF:-1 tvg-id="" tvg-name="KU: Rojava FHD" tvg-logo="" group-title="KURD",KU: Rojava FHD
+http://aumaletv.com:8080/jawad/jawad1/52227
+#EXTINF:-1 tvg-id="" tvg-name="KU: Ronahi HD" tvg-logo="" group-title="KURD",KU: Ronahi HD
+http://aumaletv.com:8080/jawad/jawad1/52228
+#EXTINF:-1 tvg-id="" tvg-name="KU: Rudaw FHD" tvg-logo="" group-title="KURD",KU: Rudaw FHD
+http://aumaletv.com:8080/jawad/jawad1/52229
+#EXTINF:-1 tvg-id="" tvg-name="KU: SAHAR TV HD" tvg-logo="" group-title="KURD",KU: SAHAR TV HD
+http://aumaletv.com:8080/jawad/jawad1/52230
+#EXTINF:-1 tvg-id="" tvg-name="KU: Shakrok TV HD" tvg-logo="" group-title="KURD",KU: Shakrok TV HD
+http://aumaletv.com:8080/jawad/jawad1/52233
+#EXTINF:-1 tvg-id="" tvg-name="KU: SIMA HD" tvg-logo="" group-title="KURD",KU: SIMA HD
+http://aumaletv.com:8080/jawad/jawad1/52235
+#EXTINF:-1 tvg-id="" tvg-name="KU: Soz TV" tvg-logo="" group-title="KURD",KU: Soz TV
+http://aumaletv.com:8080/jawad/jawad1/52237
+#EXTINF:-1 tvg-id="" tvg-name="KU: Speda HD" tvg-logo="" group-title="KURD",KU: Speda HD
+http://aumaletv.com:8080/jawad/jawad1/52238
+#EXTINF:-1 tvg-id="" tvg-name="KU: Srusht HD" tvg-logo="" group-title="KURD",KU: Srusht HD
+http://aumaletv.com:8080/jawad/jawad1/52239
+#EXTINF:-1 tvg-id="" tvg-name="KU: Sterk FHD" tvg-logo="" group-title="KURD",KU: Sterk FHD
+http://aumaletv.com:8080/jawad/jawad1/52240
+#EXTINF:-1 tvg-id="" tvg-name="KU: TRT Kurdi HD" tvg-logo="" group-title="KURD",KU: TRT Kurdi HD
+http://aumaletv.com:8080/jawad/jawad1/52244
+#EXTINF:-1 tvg-id="" tvg-name="KU: Waar TV FHD" tvg-logo="" group-title="KURD",KU: Waar TV FHD
+http://aumaletv.com:8080/jawad/jawad1/52248
+#EXTINF:-1 tvg-id="" tvg-name="KU: Xezan HD" tvg-logo="" group-title="KURD",KU: Xezan HD
+http://aumaletv.com:8080/jawad/jawad1/52249
+#EXTINF:-1 tvg-id="" tvg-name="KU: ZAGROS FHD" tvg-logo="" group-title="KURD",KU: ZAGROS FHD
+http://aumaletv.com:8080/jawad/jawad1/52250
+#EXTINF:-1 tvg-id="" tvg-name="KU: Zarok" tvg-logo="" group-title="KURD",KU: Zarok
+http://aumaletv.com:8080/jawad/jawad1/52251
+#EXTINF:-1 tvg-id="" tvg-name="KU: ZED HD" tvg-logo="" group-title="KURD",KU: ZED HD
+http://aumaletv.com:8080/jawad/jawad1/52252
+
+
 
